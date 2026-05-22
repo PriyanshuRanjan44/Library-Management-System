@@ -38,25 +38,6 @@ This project demonstrates practical implementation of core Java concepts includi
 
 ---
 
-## 📂 Project Structure
-
-```text
-Library-Management-System/
-│
-├── Main.java
-├── Person.java
-├── Student.java
-├── Librarian.java
-├── Book.java
-├── Library.java
-├── LibraryOperations.java
-└── README.md
-```
-
-*(If all classes are inside a single file, keep only `Main.java`.)*
-
----
-
 ## 🏗️ OOP Concepts Implemented
 
 ### Encapsulation
