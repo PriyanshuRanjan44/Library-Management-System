@@ -50,7 +50,6 @@ Library-Management-System/
 ├── Book.java
 ├── Library.java
 ├── LibraryOperations.java
-│
 └── README.md
 ```
 
